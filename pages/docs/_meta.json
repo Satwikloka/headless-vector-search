@@ -1,0 +1,93 @@
+{
+  "-- Switcher": {
+    "type": "separator",
+    "title": "Switcher"
+  },
+  "index": "Overview",
+  "why-lamatic": "Why Lamatic?",
+  "demo": "Demo",
+  "get-started": "Quickstart",
+  "-- Collaborate": {
+    "type": "separator",
+    "title": "Collaborate"
+  },
+  "organization": "Organization",
+  "home": "Projects",
+  "workflows": "Workflows",
+  "vector_stores": "Vector Stores",
+
+  "-- build": {
+    "type": "separator",
+    "title": "Build"
+  },
+  "apps": "Apps",
+  "models": "Models",
+  "nodes": "Nodes",
+
+
+
+  "-- deploy": {
+    "type": "separator",
+    "title": "Deploy"
+  },
+  "graphQL": "GraphQL API",
+  "edge": "Edge Deployment",
+  "cache": "Caching",
+  "keys": "API Keys",
+
+
+  "-- monitor": {
+    "type": "separator",
+    "title": "Monitor"
+  },
+  "logs": "Logs",
+  "langfuse": "Langfuse Integration",
+  "posthog" : "Posthog Integration",
+  "-- references": {
+    "type": "separator",
+    "title": "References"
+  },
+
+  "api-ref": {
+    "title": "GraphQL API ↗",
+    "href": "https://graphql.org/learn/",
+    "newWindow": true
+  },
+  "Langfuse": {
+    "title": "Langfuse ↗",
+    "href": "https://langfuse.com/docs",
+    "newWindow": true
+  },
+  "cloudflare": {
+    "title": "Cloudflare Workers↗",
+    "href": "https://workers.cloudflare.com/",
+    "newWindow": true
+  },
+  "Posthog": {
+    "title": "PostHog ↗",
+    "href": "https://posthog.com/docs",
+    "newWindow": true
+  },
+  "weaviate-ref": {
+    "title": "Weaviate Reference ↗",
+    "href": "https://weaviate.io/developers/weaviate/introduction",
+    "newWindow": true
+  },
+  "roadmap-ref": {
+    "title": "Roadmap ↗",
+    "href": "https://feedback.lamatic.ai/roadmap",
+    "newWindow": true
+  },
+
+
+  "-- more": {
+    "type": "separator",
+    "title": "More"
+  },
+  "legal": "Legal",
+  "support": {
+    "title": "Support ↗",
+    "href": "/support",
+    "newWindow": true
+  }
+}
